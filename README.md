@@ -1,5 +1,6 @@
 # Python-for-DataMining
 Python For Artificial Intelligence, Machine Learning and Data Mining
+
 Course contents
 ------------------------------
 1. Language-Python/R : Basics, Variables, DataType(Tuple, List,Set, Dictionary), User Inputs
