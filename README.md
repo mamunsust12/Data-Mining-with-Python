@@ -12,7 +12,8 @@ Course contents
 6. Language-Python/R : Data Visualization with  Matplotlib, Seaborn modules
 7. Mid Term Exam     : Statistical Analysis of Data - Outlier Detection  
 8. Language-Python/R : Data Preprocessing,sklearn, TensofFlow, Keras 
-9. Mid Term Exam     : Regression and Prediction
-10. Mid Term Exam    : Classification and Prediction
-11. Mid Term Exam    : PCA
-12. Mid Term Exam    : Clustering Analysis
+9. Supervised ML     : Regression 
+10. Supervised ML    : Classification
+11. Unsupervised ML  : PCA
+12. Unsupervised ML  : Clustering Analysis
+13. Unsupervised ML  : Associatuin Analysis
