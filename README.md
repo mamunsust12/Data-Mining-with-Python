@@ -9,9 +9,9 @@ Course contents
                        i.e.: map(), list comprehension, zip(), enumerate(), lambda, iterator 
 4. Language-Python/R : Python OOP, Files, Built in Functions, User Defined Modules
 5. Language-Python/R : Modules - Numpy, SciPy, Pandas
-6. Language-Python/R : Data Visualization with  Matplotlib, Seaborn modules
-7. Statistical Analysis : Central Tendency of Data, Dispersion of Data & Outlier Detection of Data 
-8. Language-Python/R : Data Preprocessing,sklearn, TensofFlow, Keras 
+6. Data Visualizatio : Matplotlib, Seaborn modules, Plotly etc.
+7. Statistical Analysis : Central Tendency, Dispersion & Outlier Detection of Data 
+8. Data Preprocessing : with numpy, pandas, seaborn, sklearn, TensofFlow, Keras etc
 9. Supervised ML     : Regression 
 10. Supervised ML    : Classification
 11. Unsupervised ML  : PCA
