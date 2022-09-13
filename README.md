@@ -1,5 +1,5 @@
 # Python-for-DataMining
-Python For Artificial Intelligence, Machine Learning and Data Mining
+Artificial Intelligence, Machine Learning and Data Mining
 
 Course contents
 ------------------------------
@@ -10,7 +10,7 @@ Course contents
 4. Language-Python/R : Python OOP, Files, Built in Functions, User Defined Modules
 5. Language-Python/R : Modules - Numpy, SciPy, Pandas
 6. Language-Python/R : Data Visualization with  Matplotlib, Seaborn modules
-7. Mid Term Exam     : Statistical Analysis of Data - Outlier Detection  
+7. Statistical Analysis : Central Tendency of Data, Dispersion of Data & Outlier Detection of Data 
 8. Language-Python/R : Data Preprocessing,sklearn, TensofFlow, Keras 
 9. Supervised ML     : Regression 
 10. Supervised ML    : Classification
