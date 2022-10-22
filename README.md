@@ -14,6 +14,7 @@ Course contents
 8. Data Preprocessing   : Data Cleaning, Handling Missing Values, Outlier Detection
                           with numpy, pandas, seaborn, sklearn, TensofFlow, Keras etc
 9. Feature Engineering : LabelEncoding, OneHotEncoding, PCA
-11. Supervised ML    : Classification
-12. Unsupervised ML  : Clustering Analysis
+11. Supervised ML    : Classification - Cross Validation, Ensemble Learning and ROC Curve
+12. Unsupervised ML  : Clustering Analysis and PCA
 13. Unsupervised ML  : Associatuin Analysis
+14. PBL1 and PBL2    :Project Based Learning - Heart/Diabetics Disease Prediction
